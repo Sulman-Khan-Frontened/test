@@ -6,3 +6,4 @@ Completed
 Added purple mode from master.
 
 Added Second
+Added After Push
